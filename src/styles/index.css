@@ -9,3 +9,12 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.luz-roja{
+     box-shadow: 15px 15px 10px rgba(233, 111, 111, 0.993);
+}
+.luz-amarilla{
+     box-shadow: 15px 15px 10px rgba(228, 207, 90, 0.973);
+}
+.luz-verde{
+     box-shadow: 15px 15px 10px rgb(121, 236, 117);
+}
