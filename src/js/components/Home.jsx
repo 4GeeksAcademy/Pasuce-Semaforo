@@ -8,13 +8,6 @@ import { Semaforo } from "./Semaforo";
 
 
 
-let Color= "red"
-
-	
-
-
-
-
 
 
 	return (
